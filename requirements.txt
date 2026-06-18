@@ -3,3 +3,9 @@ numpy
 scikit-learn
 notebook
 nbformat
+joblib
+fastapi
+uvicorn
+pydantic
+httpx
+pytest
